@@ -1,0 +1,22 @@
+{
+  "name": "adrianmn-api",
+  "version": "1.0.0",
+  "description": "Backend side of my personal website adrianmn.com",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriwicked/adrianmn-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adriwicked/adrianmn-api/issues"
+  },
+  "homepage": "https://github.com/adriwicked/adrianmn-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
